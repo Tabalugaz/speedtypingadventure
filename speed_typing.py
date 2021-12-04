@@ -78,3 +78,6 @@ def main(stdscr):
 			break
 
 wrapper(main)
+
+
+test
